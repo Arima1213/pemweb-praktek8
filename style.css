@@ -1,0 +1,21 @@
+/* Login Page */
+.login-page {
+    background-color: #fafafa;
+  }
+  
+  .login-card {
+    background-color: #fff;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0 1px 0 rgba(0, 0, 0, 0.15);
+    padding: 50px;
+  }
+  
+  .link-primary {
+    color: #3897f0;
+  }
+  
+  /* Registration Page */
+  .registration-page {
+    background-color: #faf
+  
